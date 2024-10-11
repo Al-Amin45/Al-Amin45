@@ -1,4 +1,5 @@
-## Hi there 👋
+
+I am Al-Amin, currently a CSE student at Bangladesh University of Engineering and Technology.
 
 <!--
 **Al-Amin45/Al-Amin45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
